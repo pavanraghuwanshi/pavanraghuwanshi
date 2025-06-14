@@ -47,7 +47,7 @@ A smart school safety system that enables parents to track the live location of 
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pavanraghuwanshi/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pavan-raghuwanshi/)
 - 📧 Email: pavanraghuwanshi77@gmail.com
 
 ---
