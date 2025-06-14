@@ -55,4 +55,8 @@ A smart school safety system that enables parents to track the live location of 
 ### ⚡ Fun Fact
 
 > I believe in writing clean code, learning every day, and always delivering more than expected. Let's build something amazing together!
+>
+> ### 🔗 GitHub Contribution Graph
+
+![GitHub Contributions](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
